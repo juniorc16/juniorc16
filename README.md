@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @juniorc16
-- 👀 I’m interested in  novas tecnologias  
+- 👀 I’m interested in  novas tecnologias Python, java , Javascript
 - 🌱 I’m currently learning  uma coisa de cada vez
 - 💞️ I’m looking to collaborate on  que for importante
 - 📫 How to reach me ...
