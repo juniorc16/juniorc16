@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @juniorc16
+- 👋 Hi, I’m  Junior 
 - 👀 I’m interested in  novas tecnologias Python, Javascript, Html ....
 - 🌱 I’m currently learning  uma coisa de cada vez
 - 💞️ I’m looking to collaborate on  que for importante
